@@ -17,19 +17,19 @@ A responsive React application that displays real-time cryptocurrency prices and
 
 ---
 
-## ✨ Features
+## Features
 
-- 📈 View real-time cryptocurrency market data
-- 🔍 Search cryptocurrencies instantly
-- 💰 Live price updates
-- 📊 Display market capitalization
-- 📉 View 24-hour price change
-- 📱 Fully responsive user interface
-- 🌐 CoinGecko API integration
+-  View real-time cryptocurrency market data
+-  Search cryptocurrencies instantly
+-  Live price updates
+-  Display market capitalization
+-  View 24-hour price change
+-  Fully responsive user interface
+-  CoinGecko API integration
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - JavaScript (ES6+)
@@ -40,14 +40,14 @@ A responsive React application that displays real-time cryptocurrency prices and
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Website:**  
 https://cryptocurrency-market-tracker-git-main-manogna17.vercel.app/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/ManognaKodukulla/Cryptocurrency-Market-Tracker.git
@@ -70,7 +70,7 @@ npm start
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Cryptocurrency-Market-Tracker
@@ -83,7 +83,7 @@ Cryptocurrency-Market-Tracker
 ---
 
 
-## 👩‍💻 Author
+##  Author
 
 **Manogna Kodukulla**
 
@@ -92,11 +92,11 @@ https://github.com/ManognaKodukulla
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Cryptocurrency-Market-Tracker
@@ -108,7 +108,7 @@ Cryptocurrency-Market-Tracker
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Manogna Kodukulla**
 
@@ -117,6 +117,6 @@ https://github.com/ManognaKodukulla
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
