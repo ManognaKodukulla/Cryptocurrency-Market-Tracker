@@ -1,5 +1,7 @@
 {
-  "homepage": "https://SahilChandravanshi.github.io/simple-crypto-tracker",
+  "name": "simple-cryto-tracker",
+  "version": "0.1.0",
+  "private": true,
   "name": "simple-cryto-tracker",
   "version": "0.1.0",
   "private": true,
